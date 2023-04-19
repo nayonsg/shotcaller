@@ -6,17 +6,17 @@ const Rodape = () => {
             <section>
                 <ul>
                     <li>
-                        <a href="facebook.com" target="_blank">
+                        <a href="Facebook" target="https://www.facebook.com/nayon.gomes">
                             <img src="/imagens/fb.png" alt="Facebook" />
                         </a>
                     </li>
                     <li>
-                        <a href="twitter.com" target="_blank">
+                        <a href="Twitter" target="https://twitter.com/nayonsg">
                             <img src="/imagens/tw.png" alt="Twitter" />
                         </a>
                     </li>
                     <li>
-                        <a href="instagram.com" target="_blank">
+                        <a href="Instagram" target="instagram.com/nayonsg">
                             <img src="/imagens/ig.png" alt="Instagram" />
                         </a>
                     </li>

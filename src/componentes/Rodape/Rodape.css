@@ -11,11 +11,24 @@
 .footer ul li {
     display: inline-block;
     margin-right: 32px;
+    transition: 0.5s ease;
+    color: white;
+}
+
+.footer ul:hover li a {
+    color: rgba(10,2,82,1);
+}
+
+.footer ul:hover li a:not(:hover) {
+    color: white;
+    opacity: 0.3;
+    filter: blur(1px);
 }
 
 .footer ul li:last-child {
     margin-right: 0;
 }
+
 
 .footer .trademark:last-child {
     margin-left: 320px;
