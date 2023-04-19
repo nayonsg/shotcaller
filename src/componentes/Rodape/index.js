@@ -31,7 +31,7 @@ const Rodape = () => {
                 </p>            
             </section>
             <section>
-                <p className="trademark">Base do projeto criada por ALURA. As logos de rotas (topo, selva, meio, atirador e suporte) são propriedade da Riot Games&trade;. Todos os direitos reservados.</p>
+                <p className="trademark">Projeto baseado no "Organo", desenvolvido pela ALURA. As logos de rotas (topo, selva, meio, atirador e suporte) são propriedade da Riot Games&trade;. Todos os direitos reservados.</p>
             </section>
         </footer>
     )
